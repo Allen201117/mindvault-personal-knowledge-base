@@ -4,8 +4,8 @@
 
 ## 在线体验
 
-- 部署链接：待部署
-- GitHub 仓库：待创建
+- 部署链接：https://knowledge-base-lilac.vercel.app
+- GitHub 仓库：https://github.com/Allen201117/mindvault-personal-knowledge-base
 
 ## 项目定位
 
